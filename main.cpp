@@ -6,16 +6,6 @@ int main()
     int n;
     cin >> n;
 
-    if (n =1)
-    {
-        cout << "1" << endl;
-        return 0;
-    };
-       if (n =2)
-    {
-        cout << "1" << endl<<"1"<<endl;
-        return 0;
-    };
     int a = 1, b = 0, c = 0;
 
     while (1 == 1)
